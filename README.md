@@ -1,5 +1,12 @@
 # CSIT 214: C++ Programming
 ## Project 2: The Amusement Park Problem - Part II
+### Purpose 
+
+Add and modify features of Project 1. Develop a program with the following features...
+* If statements
+* Pretest while loop
+* Post-test do loop
+
 ### About
 
 Made with Microsoft Visual Studio 2017. This program was made following project guidelines; source code may not accurately represent personal knowledge, skill, style, or philosophy.
