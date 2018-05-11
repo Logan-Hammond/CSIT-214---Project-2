@@ -1,5 +1,5 @@
 # CSIT 214: C++ Programming
-## Project 1: The Amusement Park Problem - Part II
+## Project 2: The Amusement Park Problem - Part II
 ### About
 
 Made with Microsoft Visual Studio 2017. This program was made following project guidelines; source code may not accurately represent personal knowledge, skill, style, or philosophy.
